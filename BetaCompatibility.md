@@ -20,6 +20,9 @@ The name of the mods in the list below may be different than the name of the mod
 # Mods
 |Status|Mod|
 |--|--|
+|❌|ExtraDeployChecks|
+|❌|MapMarkers|
+|❌|RaidShowAlly|
 |❔|AutoLoadGame|
 |❔|CameraToExits|
 |❔|CommandAlly|
@@ -30,13 +33,11 @@ The name of the mods in the list below may be different than the name of the mod
 |❔|EnemyCountIndicator_Continued|
 |❔|ExitWithoutSaveCommand|
 |❔|ExternalLog|
-|❔|ExtraDeployChecks|
 |❔|GraphicsResolutionToTop|
 |❔|HighlightDamagingEffects|
 |❔|ImprovedSort|
 |❔|InstantResearch|
 |❔|LockItemTransfer|
-|❔|MapMarkers|
 |❔|MapMoveSpeed|
 |❔|MiniMapMoveCamera|
 |❔|MissionExpirationHighlight|
@@ -45,7 +46,6 @@ The name of the mods in the list below may be different than the name of the mod
 |❔|PauseOnProduction|
 |❔|PityUnlock|
 |❔|ProduceAsReady|
-|❔|RaidShowAlly|
 |❔|RecycleHotKey|
 |❔|RedsOptionalTweaks|
 |❔|ShowHunger|
