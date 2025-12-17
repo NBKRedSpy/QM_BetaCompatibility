@@ -53,12 +53,12 @@ The name of the mods in the list below may be different than the name of the mod
 |☑️|SpeedToggle|
 |☑️|StopOnDetected|
 |☑️|StorageSort|
+|☑️|DontShootBoxes|
+|☑️|RedsOptionalTweaks - See [subsection](#reds-optional-tweaks-sub-items) below|
 |☑️|TabHotkeys|
 |❔|DecreaseWeaponsDegradation|
-|❔|DontShootBoxes|
 |❔|InstantResearch|
 |❔|MoreProjects|
-|☑️|RedsOptionalTweaks - See [subsection](#reds-optional-tweaks-sub-items) below|
 |❔|SilentFood|
 |❔|SimpleDataLoader|
 |❔|Template|
