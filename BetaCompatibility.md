@@ -58,9 +58,25 @@ The name of the mods in the list below may be different than the name of the mod
 |❔|DontShootBoxes|
 |❔|InstantResearch|
 |❔|MoreProjects|
-|❔|RedsOptionalTweaks|
+|☑️|RedsOptionalTweaks - See [subsection](#reds-optional-tweaks-sub-items) below|
 |❔|SilentFood|
 |❔|SimpleDataLoader|
 |❔|Template|
 |❔|UnityExplorer|
 |❔|UpdateWorkshopByName|
+
+
+# Red's Optional Tweaks sub items.
+
+
+|Status|Mod|
+|--|--|
+|☑️|HoldToReload|
+|☑️|ImplantIndicator|
+|☑️|QMeterVisual|
+|☑️|RecycleHotkey|
+|☑️|ShowExpMaxed|
+|☑️|ShowStationInfo|
+|☑️|SplitStackHotkeys|
+|☑️|StackTotalInventoryCount|
+|☑️|ShipSpeedBoost|
