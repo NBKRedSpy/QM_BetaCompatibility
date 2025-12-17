@@ -56,15 +56,13 @@ The name of the mods in the list below may be different than the name of the mod
 |☑️|DontShootBoxes|
 |☑️|RedsOptionalTweaks - See [subsection](#reds-optional-tweaks-sub-items) below|
 |☑️|TabHotkeys|
-|❔|DecreaseWeaponsDegradation|
-|❔|InstantResearch|
-|❔|MoreProjects|
-|❔|SilentFood|
-|❔|SimpleDataLoader|
-|❔|Template|
-|❔|UnityExplorer|
+|☑️|DecreaseWeaponsDegradation|
+|☑️|InstantResearch|
+|☑️|MoreProjects|
+|☑️|SilentFood|
+|☑️|SimpleDataLoader|
+|☑️|UnityExplorer|
 |❔|UpdateWorkshopByName|
-
 
 # Red's Optional Tweaks sub items.
 
