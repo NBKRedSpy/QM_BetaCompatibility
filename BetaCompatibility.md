@@ -20,10 +20,10 @@ The name of the mods in the list below may be different than the name of the mod
 # Mods
 |Status|Mod|
 |--|--|
-|❌|PityUnlock|
-|✅|RaidShowAlly|
 |✅|ExtraDeployChecks|
 |✅|MapMarkers|
+|✅|PityUnlock|
+|✅|RaidShowAlly|
 |☑️|AutoLoadGame|
 |☑️|CameraToExits|
 |☑️|CommandAlly|
