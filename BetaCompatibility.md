@@ -20,32 +20,39 @@ The name of the mods in the list below may be different than the name of the mod
 # Mods
 |Status|Mod|
 |--|--|
-|❌|ExtraDeployChecks|
-|❌|MapMarkers|
 |❌|PityUnlock|
-|❌|RaidShowAlly|
+|✅|RaidShowAlly|
+|✅|ExtraDeployChecks|
+|✅|MapMarkers|
 |☑️|AutoLoadGame|
 |☑️|CameraToExits|
 |☑️|CommandAlly|
 |☑️|CompareDelta|
 |☑️|ContextMenuHotkeys|
+|☑️|DecreaseWeaponsDegradation|
+|☑️|DontShootBoxes|
 |☑️|EnemyCountIndicator_Continued|
 |☑️|ExitWithoutSaveCommand|
 |☑️|ExternalLog|
 |☑️|GraphicsResolutionToTop|
 |☑️|HighlightDamagingEffects|
 |☑️|ImprovedSort|
+|☑️|InstantResearch|
 |☑️|LockItemTransfer|
 |☑️|MapMoveSpeed|
 |☑️|MiniMapMoveCamera|
 |☑️|MissionExpirationHighlight|
 |☑️|MoreCombatInfo|
+|☑️|MoreProjects|
 |☑️|PauseOnProduction|
 |☑️|ProduceAsReady|
 |☑️|RecycleHotKey|
+|☑️|RedsOptionalTweaks - See [subsection](#reds-optional-tweaks-sub-items) below|
 |☑️|ShowHunger|
 |☑️|ShowTechLevel|
 |☑️|ShowUpgradeResources|
+|☑️|SilentFood|
+|☑️|SimpleDataLoader|
 |☑️|SkipDaysCommand|
 |☑️|SortExcess|
 |☑️|SpawnMonsterCommand|
@@ -53,16 +60,9 @@ The name of the mods in the list below may be different than the name of the mod
 |☑️|SpeedToggle|
 |☑️|StopOnDetected|
 |☑️|StorageSort|
-|☑️|DontShootBoxes|
-|☑️|RedsOptionalTweaks - See [subsection](#reds-optional-tweaks-sub-items) below|
 |☑️|TabHotkeys|
-|☑️|DecreaseWeaponsDegradation|
-|☑️|InstantResearch|
-|☑️|MoreProjects|
-|☑️|SilentFood|
-|☑️|SimpleDataLoader|
 |☑️|UnityExplorer|
-|❔|UpdateWorkshopByName|
+|☑️|UpdateWorkshopByName|
 
 # Red's Optional Tweaks sub items.
 
