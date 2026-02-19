@@ -20,6 +20,8 @@ The name of the mods in the list below may be different than the name of the mod
 # Mods
 |Status|Mod|
 |--|--|
+|☑️|EnemyCountIndicator_Continued|
+|☑️|ExtraDeployChecks|
 |✅|SpawnMonsterCommand|
 |❔|AutoLoadGame|
 |❔|CameraToExits|
@@ -29,10 +31,8 @@ The name of the mods in the list below may be different than the name of the mod
 |❔|DataExport|
 |❔|DecreaseWeaponsDegradation|
 |❔|DontShootBoxes|
-|❔|EnemyCountIndicator_Continued|
 |❔|ExitWithoutSaveCommand|
 |❔|ExternalLog|
-|❔|ExtraDeployChecks|
 |❔|GraphicsResolutionToTop|
 |❔|HighlightDamagingEffects|
 |❔|ImprovedSort|
