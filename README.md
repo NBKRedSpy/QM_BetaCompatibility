@@ -20,6 +20,7 @@ The name of the mods in the list below may be different than the name of the mod
 # Mods
 |Status|Mod|
 |--|--|
+|❌|SpawnMonsterCommand|
 |❔|ExtraDeployChecks|
 |❔|MapMarkers|
 |❔|PityUnlock|
@@ -55,7 +56,6 @@ The name of the mods in the list below may be different than the name of the mod
 |❔|SimpleDataLoader|
 |❔|SkipDaysCommand|
 |❔|SortExcess|
-|❌|SpawnMonsterCommand|
 |❔|SpawnMultipleCommand|
 |❔|SpeedToggle|
 |❔|StopOnDetected|
