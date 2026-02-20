@@ -20,6 +20,7 @@ The name of the mods in the list below may be different than the name of the mod
 # Mods
 |Status|Mod|
 |--|--|
+|❌|MoreCombatInfo - not causing an issue, but To Hit and the roll are incorrectly identical.|
 |☑️|EnemyCountIndicator_Continued|
 |☑️|ExtraDeployChecks|
 |✅|AutoLoadGame|
@@ -37,7 +38,6 @@ The name of the mods in the list below may be different than the name of the mod
 |✅|MapMoveSpeed|
 |✅|MiniMapMoveCamera|
 |✅|MissionExpirationHighlight|
-|✅|MoreCombatInfo|
 |✅|PauseOnProduction|
 |✅|ProduceAsReady|
 |✅|RaidShowAlly|
