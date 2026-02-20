@@ -22,50 +22,50 @@ The name of the mods in the list below may be different than the name of the mod
 |--|--|
 |☑️|EnemyCountIndicator_Continued|
 |☑️|ExtraDeployChecks|
-|✅|ExitWithoutSaveCommand|
-|✅|RecycleHotKey|
-|✅|SpawnMonsterCommand|
 |✅|AutoLoadGame|
+|✅|CommandAlly|
+|✅|CompareDelta|
+|✅|ContextMenuHotkeys|
 |✅|DataExport|
+|✅|ExitWithoutSaveCommand|
 |✅|ExternalLog|
 |✅|GraphicsResolutionToTop|
+|✅|HighlightDamagingEffects|
+|✅|ImprovedSort|
+|✅|LockItemTransfer|
+|✅|MapMarkers|
+|✅|MapMoveSpeed|
+|✅|MiniMapMoveCamera|
+|✅|MissionExpirationHighlight|
 |✅|MoreCombatInfo|
+|✅|PauseOnProduction|
+|✅|ProduceAsReady|
+|✅|RaidShowAlly|
+|✅|RecycleHotKey|
+|✅|ShowHunger|
+|✅|SortExcess|
+|✅|SpawnMonsterCommand|
+|✅|SpawnMultipleCommand|
+|✅|SpeedToggle|
+|✅|StorageSort|
+|✅|TabHotkeys|
 |✅|UpdateWorkshopByName|
 |❔|CameraToExits|
-|❔|CommandAlly|
-|❔|CompareDelta|
-|❔|ContextMenuHotkeys|
 |❔|DecreaseWeaponsDegradation|
 |❔|DontShootBoxes|
-|❔|HighlightDamagingEffects|
-|❔|ImprovedSort|
 |❔|InstantResearch|
-|❔|LockItemTransfer|
-|❔|MapMarkers|
-|❔|MapMoveSpeed|
-|❔|MiniMapMoveCamera|
-|❔|MissionExpirationHighlight|
 |❔|MoreProjects|
-|❔|PauseOnProduction|
 |❔|PityUnlock|
-|❔|ProduceAsReady|
-|❔|RaidShowAlly|
 |❔|RedsOptionalTweaks - See [subsection](#reds-optional-tweaks-sub-items) below|
-|❔|ShowHunger|
 |❔|ShowTechLevel|
 |❔|ShowUpgradeResources|
 |❔|SilentFood|
 |❔|SimpleDataLoader|
 |❔|SkipDaysCommand|
-|❔|SortExcess|
-|❔|SpawnMultipleCommand|
-|❔|SpeedToggle|
-|❔|StopOnDetected|
-|❔|StorageSort|
-|❔|TabHotkeys|
+|❔|StopOnDetected - Game changed how signals work.  Check if still needed.|
 |❔|UnityExplorer|
-# Red's Optional Tweaks sub items.
 
+# Red's Optional Tweaks sub items.
 
 |Status|Mod|
 |--|--|
