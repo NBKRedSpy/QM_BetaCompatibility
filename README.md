@@ -21,60 +21,61 @@ The name of the mods in the list below may be different than the name of the mod
 |Status|Mod|
 |--|--|
 |❌|MoreCombatInfo - not causing an issue, but To Hit and the roll are incorrectly identical.|
-|☑️|EnemyCountIndicator_Continued|
-|☑️|ExtraDeployChecks|
+|✅|EnemyCountIndicator_Continued|
 |✅|AutoLoadGame|
-|✅|CameraToExits|
-|✅|CommandAlly|
-|✅|CompareDelta|
-|✅|ContextMenuHotkeys|
-|✅|DataExport|
-|✅|DecreaseWeaponsDegradation|
-|✅|ExitWithoutSaveCommand|
-|✅|ExternalLog|
-|✅|GraphicsResolutionToTop|
-|✅|HighlightDamagingEffects|
-|✅|ImprovedSort|
-|✅|InstantResearch|
-|✅|LockItemTransfer|
-|✅|MapMarkers|
-|✅|MapMoveSpeed|
-|✅|MiniMapMoveCamera|
-|✅|MissionExpirationHighlight|
-|✅|MoreProjects|
-|✅|PauseOnProduction|
-|✅|PityUnlock|
-|✅|ProduceAsReady|
-|✅|RaidShowAlly|
-|✅|RecycleHotKey|
-|✅|ShowHunger|
-|✅|ShowTechLevel|
-|✅|ShowUpgradeResources|
-|✅|SilentFood|
-|✅|SimpleDataLoader|
-|✅|SkipDaysCommand|
-|✅|SortExcess|
-|✅|SpawnMonsterCommand|
-|✅|SpawnMultipleCommand|
-|✅|SpeedToggle|
-|✅|StorageSort|
-|✅|TabHotkeys|
-|✅|UnityExplorer|
-|✅|UpdateWorkshopByName|
-|✅|DontShootBoxes|
-|✅|RedsOptionalTweaks - See [subsection](#reds-optional-tweaks-sub-items) below|
 |❔|StopOnDetected - Game changed how signals work.  Check if still needed.|
+|☑️|ExtraDeployChecks|
+|☑️|CameraToExits|
+|☑️|CommandAlly|
+|☑️|CompareDelta|
+|☑️|ContextMenuHotkeys|
+|☑️|DataExport|
+|☑️|DecreaseWeaponsDegradation|
+|☑️|ExitWithoutSaveCommand|
+|☑️|ExternalLog|
+|☑️|GraphicsResolutionToTop|
+|☑️|HighlightDamagingEffects|
+|☑️|ImprovedSort|
+|☑️|InstantResearch|
+|☑️|LockItemTransfer|
+|☑️|MapMarkers|
+|☑️|MapMoveSpeed|
+|☑️|MiniMapMoveCamera|
+|☑️|MissionExpirationHighlight|
+|☑️|MoreProjects|
+|☑️|PauseOnProduction|
+|☑️|PityUnlock|
+|☑️|ProduceAsReady|
+|☑️|RaidShowAlly|
+|☑️|RecycleHotKey|
+|☑️|ShowHunger|
+|☑️|ShowTechLevel|
+|☑️|ShowUpgradeResources|
+|☑️|SilentFood|
+|☑️|SimpleDataLoader|
+|☑️|SkipDaysCommand|
+|☑️|SortExcess|
+|☑️|SpawnMonsterCommand|
+|☑️|SpawnMultipleCommand|
+|☑️|SpeedToggle|
+|☑️|StorageSort|
+|☑️|TabHotkeys|
+|☑️|UnityExplorer|
+|☑️|UpdateWorkshopByName|
+|☑️|DontShootBoxes|
+|☑️|RedsOptionalTweaks - See [subsection](#reds-optional-tweaks-sub-items) below|
+
 # Red's Optional Tweaks sub items.
 
 |Status|Mod|
 |--|--|
-|✅|HoldToReload|
-|✅|ImplantIndicator|
-|✅|Mouse Quick Toss Rebind|
-|✅|QMeterVisual|
-|✅|RecycleHotkey|
-|✅|ShipSpeedBoost|
-|✅|Show Station Info|
-|✅|ShowExpMaxed|
-|✅|SplitStackHotkeys|
-|✅|StackTotalInventoryCount|
+|☑️|HoldToReload|
+|☑️|ImplantIndicator|
+|☑️|Mouse Quick Toss Rebind|
+|☑️|QMeterVisual|
+|☑️|RecycleHotkey|
+|☑️|ShipSpeedBoost|
+|☑️|Show Station Info|
+|☑️|ShowExpMaxed|
+|☑️|SplitStackHotkeys|
+|☑️|StackTotalInventoryCount|
