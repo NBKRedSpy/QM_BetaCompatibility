@@ -22,8 +22,7 @@ The name of the mods in the list below may be different than the name of the mod
 |--|--|
 |✅|AutoLoadGame|
 |✅|EnemyCountIndicator_Continued|
-|✅|MoreCombatInfo - not causing an issue, but To Hit and the roll are incorrectly identical.|
-|❔|StopOnDetected - Game changed how signals work.  Check if still needed.|
+|✅|MoreCombatInfo|
 |☑️|ExtraDeployChecks|
 |☑️|CameraToExits|
 |☑️|CommandAlly|
@@ -58,6 +57,7 @@ The name of the mods in the list below may be different than the name of the mod
 |☑️|SpawnMonsterCommand|
 |☑️|SpawnMultipleCommand|
 |☑️|SpeedToggle|
+|☑️|StopOnDetected|
 |☑️|StorageSort|
 |☑️|TabHotkeys|
 |☑️|UnityExplorer|
