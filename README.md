@@ -20,9 +20,9 @@ The name of the mods in the list below may be different than the name of the mod
 # Mods
 |Status|Mod|
 |--|--|
-|❌|MoreCombatInfo - not causing an issue, but To Hit and the roll are incorrectly identical.|
-|✅|EnemyCountIndicator_Continued|
 |✅|AutoLoadGame|
+|✅|EnemyCountIndicator_Continued|
+|✅|MoreCombatInfo - not causing an issue, but To Hit and the roll are incorrectly identical.|
 |❔|StopOnDetected - Game changed how signals work.  Check if still needed.|
 |☑️|ExtraDeployChecks|
 |☑️|CameraToExits|
