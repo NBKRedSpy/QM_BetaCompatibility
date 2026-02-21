@@ -61,19 +61,20 @@ The name of the mods in the list below may be different than the name of the mod
 |✅|TabHotkeys|
 |✅|UnityExplorer|
 |✅|UpdateWorkshopByName|
-|❔|DontShootBoxes|
-|❔|RedsOptionalTweaks - See [subsection](#reds-optional-tweaks-sub-items) below|
+|✅|DontShootBoxes|
+|✅|RedsOptionalTweaks - See [subsection](#reds-optional-tweaks-sub-items) below|
 |❔|StopOnDetected - Game changed how signals work.  Check if still needed.|
 # Red's Optional Tweaks sub items.
 
 |Status|Mod|
 |--|--|
-|❔|HoldToReload|
-|❔|ImplantIndicator|
-|❔|QMeterVisual|
-|❔|RecycleHotkey|
-|❔|ShowExpMaxed|
-|❔|ShowStationInfo|
-|❔|SplitStackHotkeys|
-|❔|StackTotalInventoryCount|
-|❔|ShipSpeedBoost|
+|✅|HoldToReload|
+|✅|ImplantIndicator|
+|✅|Mouse Quick Toss Rebind|
+|✅|QMeterVisual|
+|✅|RecycleHotkey|
+|✅|ShipSpeedBoost|
+|✅|Show Station Info|
+|✅|ShowExpMaxed|
+|✅|SplitStackHotkeys|
+|✅|StackTotalInventoryCount|
