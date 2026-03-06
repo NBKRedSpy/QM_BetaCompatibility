@@ -58,7 +58,7 @@ The name of the mods in the list below may be different than the name of the mod
 |❔|SkipDaysCommand|
 |❔|SortExcess|
 |❔|SpawnMonsterCommand|
-|❔|SpawnMultipleCommand|
+|❔|SpawnMultipleCommand - TODO: Update - Game has a count now. No impact on this mod.|
 |❔|SpeedToggle|
 |❔|StopOnDetected|
 |❔|StorageSort|
