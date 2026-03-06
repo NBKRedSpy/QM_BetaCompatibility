@@ -20,18 +20,19 @@ The name of the mods in the list below may be different than the name of the mod
 # Mods
 |Status|Mod|
 |--|--|
-|❔|EnemyCountIndicator_Continued|
-|❔|MoreCombatInfo|
+|❌|TabHotkeys|
 |❔|AutoLoadGame|
-|❔|ExtraDeployChecks|
 |❔|CameraToExits|
 |❔|CommandAlly|
 |❔|CompareDelta|
 |❔|ContextMenuHotkeys|
 |❔|DataExport|
 |❔|DecreaseWeaponsDegradation|
+|❔|DontShootBoxes|
+|❔|EnemyCountIndicator_Continued|
 |❔|ExitWithoutSaveCommand|
 |❔|ExternalLog|
+|❔|ExtraDeployChecks|
 |❔|GraphicsResolutionToTop|
 |❔|HighlightDamagingEffects|
 |❔|ImprovedSort|
@@ -41,12 +42,14 @@ The name of the mods in the list below may be different than the name of the mod
 |❔|MapMoveSpeed|
 |❔|MiniMapMoveCamera|
 |❔|MissionExpirationHighlight|
+|❔|MoreCombatInfo|
 |❔|MoreProjects|
 |❔|PauseOnProduction|
 |❔|PityUnlock|
 |❔|ProduceAsReady|
 |❔|RaidShowAlly|
 |❔|RecycleHotKey|
+|❔|RedsOptionalTweaks - See [subsection](#reds-optional-tweaks-sub-items) below|
 |❔|ShowHunger|
 |❔|ShowTechLevel|
 |❔|ShowUpgradeResources|
@@ -59,12 +62,8 @@ The name of the mods in the list below may be different than the name of the mod
 |❔|SpeedToggle|
 |❔|StopOnDetected|
 |❔|StorageSort|
-|❔|TabHotkeys|
 |❔|UnityExplorer|
 |❔|UpdateWorkshopByName|
-|❔|DontShootBoxes|
-|❔|RedsOptionalTweaks - See [subsection](#reds-optional-tweaks-sub-items) below|
-
 # Red's Optional Tweaks sub items.
 
 |Status|Mod|
