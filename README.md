@@ -20,7 +20,7 @@ The name of the mods in the list below may be different than the name of the mod
 # Mods
 |Status|Mod|
 |--|--|
-|❌|TabHotkeys|
+|❌|TabHotkeys - disabled.  No need to unsubscribe|
 |❔|AutoLoadGame|
 |❔|CameraToExits|
 |❔|CommandAlly|
