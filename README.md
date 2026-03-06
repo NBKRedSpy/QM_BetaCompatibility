@@ -12,15 +12,15 @@ The name of the mods in the list below may be different than the name of the mod
 |prefix|Description|
 |--|--|
 |🌟|The game now has this functionality or very close to the full functionality.  Unsubcribe from this mod.|
-|❌|Broken - Known to be broken.  Will require updates|
+|❌|Broken - no user action required.  Mod has been disabled with an update.  When the mod is fixed, the mod will be updated again and load as usual.|
 |☑️|No Change required.  The current version is compatible.|
 |✅|Fixed.  Has been updated on the workshop.  If needed, resubscribe|
 |❔|Unknown|
-  
+
 # Mods
 |Status|Mod|
 |--|--|
-|❌|TabHotkeys - disabled.  No need to unsubscribe|
+|❌|TabHotkeys|
 |❔|AutoLoadGame|
 |❔|CameraToExits|
 |❔|CommandAlly|
