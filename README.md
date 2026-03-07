@@ -20,9 +20,6 @@ The name of the mods in the list below may be different than the name of the mod
 # Mods
 |Status|Mod|
 |--|--|
-|❌|TabHotkeys|
-|✅|RecycleHotKey - TODO: The mod works.  Game now has "close when storage is empty" functionality.  Disable if it works the same.|
-|✅|SpawnMultipleCommand - TODO: Update - Game has a count now. No impact on this mod.|
 |✅|AutoLoadGame|
 |✅|CameraToExits|
 |✅|CommandAlly|
@@ -50,6 +47,7 @@ The name of the mods in the list below may be different than the name of the mod
 |✅|PityUnlock|
 |✅|ProduceAsReady|
 |✅|RaidShowAlly|
+|✅|RecycleHotKey|
 |✅|RedsOptionalTweaks - See [subsection](#reds-optional-tweaks-sub-items) below|
 |✅|ShowHunger|
 |✅|ShowTechLevel|
@@ -59,9 +57,11 @@ The name of the mods in the list below may be different than the name of the mod
 |✅|SkipDaysCommand|
 |✅|SortExcess|
 |✅|SpawnMonsterCommand|
+|✅|SpawnMultipleCommand|
 |✅|SpeedToggle|
 |✅|StopOnDetected|
 |✅|StorageSort|
+|✅|TabHotkeys|
 |✅|UnityExplorer|
 |✅|UpdateWorkshopByName|
 # Red's Optional Tweaks sub items.
