@@ -21,60 +21,60 @@ The name of the mods in the list below may be different than the name of the mod
 |Status|Mod|
 |--|--|
 |❌|TabHotkeys|
-|❔|AutoLoadGame|
-|❔|CameraToExits|
-|❔|CommandAlly|
-|❔|CompareDelta|
-|❔|ContextMenuHotkeys|
-|❔|DataExport|
-|❔|DecreaseWeaponsDegradation|
-|❔|DontShootBoxes|
-|❔|EnemyCountIndicator_Continued|
-|❔|ExitWithoutSaveCommand|
-|❔|ExternalLog|
-|❔|ExtraDeployChecks|
-|❔|GraphicsResolutionToTop|
-|❔|HighlightDamagingEffects|
-|❔|ImprovedSort|
-|❔|InstantResearch|
-|❔|LockItemTransfer|
-|❔|MapMarkers|
-|❔|MapMoveSpeed|
-|❔|MiniMapMoveCamera|
-|❔|MissionExpirationHighlight|
-|❔|MoreCombatInfo|
-|❔|MoreProjects|
-|❔|PauseOnProduction|
-|❔|PityUnlock|
-|❔|ProduceAsReady|
-|❔|RaidShowAlly|
-|❔|RecycleHotKey|
-|❔|RedsOptionalTweaks - See [subsection](#reds-optional-tweaks-sub-items) below|
-|❔|ShowHunger|
-|❔|ShowTechLevel|
-|❔|ShowUpgradeResources|
-|❔|SilentFood|
-|❔|SimpleDataLoader|
-|❔|SkipDaysCommand|
-|❔|SortExcess|
-|❔|SpawnMonsterCommand|
-|❔|SpawnMultipleCommand - TODO: Update - Game has a count now. No impact on this mod.|
-|❔|SpeedToggle|
-|❔|StopOnDetected|
-|❔|StorageSort|
-|❔|UnityExplorer|
-|❔|UpdateWorkshopByName|
+|✅|RecycleHotKey - TODO: The mod works.  Game now has "close when storage is empty" functionality.  Disable if it works the same.|
+|✅|SpawnMultipleCommand - TODO: Update - Game has a count now. No impact on this mod.|
+|✅|AutoLoadGame|
+|✅|CameraToExits|
+|✅|CommandAlly|
+|✅|CompareDelta|
+|✅|ContextMenuHotkeys|
+|✅|DataExport|
+|✅|DecreaseWeaponsDegradation|
+|✅|DontShootBoxes|
+|✅|EnemyCountIndicator_Continued|
+|✅|ExitWithoutSaveCommand|
+|✅|ExternalLog|
+|✅|ExtraDeployChecks|
+|✅|GraphicsResolutionToTop|
+|✅|HighlightDamagingEffects|
+|✅|ImprovedSort|
+|✅|InstantResearch|
+|✅|LockItemTransfer|
+|✅|MapMarkers|
+|✅|MapMoveSpeed|
+|✅|MiniMapMoveCamera|
+|✅|MissionExpirationHighlight|
+|✅|MoreCombatInfo|
+|✅|MoreProjects|
+|✅|PauseOnProduction|
+|✅|PityUnlock|
+|✅|ProduceAsReady|
+|✅|RaidShowAlly|
+|✅|RedsOptionalTweaks - See [subsection](#reds-optional-tweaks-sub-items) below|
+|✅|ShowHunger|
+|✅|ShowTechLevel|
+|✅|ShowUpgradeResources|
+|✅|SilentFood|
+|✅|SimpleDataLoader|
+|✅|SkipDaysCommand|
+|✅|SortExcess|
+|✅|SpawnMonsterCommand|
+|✅|SpeedToggle|
+|✅|StopOnDetected|
+|✅|StorageSort|
+|✅|UnityExplorer|
+|✅|UpdateWorkshopByName|
 # Red's Optional Tweaks sub items.
 
 |Status|Mod|
 |--|--|
-|❔|HoldToReload|
-|❔|ImplantIndicator|
-|❔|Mouse Quick Toss Rebind|
-|❔|QMeterVisual|
-|❔|RecycleHotkey|
-|❔|ShipSpeedBoost|
-|❔|Show Station Info|
-|❔|ShowExpMaxed|
-|❔|SplitStackHotkeys|
-|❔|StackTotalInventoryCount|
+|✅|HoldToReload|
+|✅|ImplantIndicator|
+|✅|Mouse Quick Toss Rebind|
+|✅|QMeterVisual|
+|✅|RecycleHotkey|
+|✅|ShipSpeedBoost|
+|✅|Show Station Info|
+|✅|ShowExpMaxed|
+|✅|SplitStackHotkeys|
+|✅|StackTotalInventoryCount|
