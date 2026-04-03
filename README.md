@@ -25,6 +25,7 @@ The name of the mods in the list below may be different than the name of the mod
 |❌|PityUnlock|
 |❌|RedsOptionalTweaks - See [subsection](#reds-optional-tweaks-sub-items) below|
 |❌|SimpleDataLoader - Needs new config_ files|
+|❌|StorageSort|
 |❔|CameraToExits|
 |❔|CommandAlly|
 |❔|CompareDelta|
@@ -60,7 +61,6 @@ The name of the mods in the list below may be different than the name of the mod
 |❔|SpawnMultipleCommand|
 |❔|SpeedToggle|
 |❔|StopOnDetected|
-|❔|StorageSort|
 |❔|TabHotkeys|
 |❔|UnityExplorer|
 |❔|UpdateWorkshopByName|
