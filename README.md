@@ -2,11 +2,8 @@ The compatibility of my mods with the specified beta.
 
 |||
 |--|--|
-|Targeting version| 0.9.9.489s.c01fb90|
-|Date Started| 3/13/2026|
-
-**Note:** Did a quick scan of the code changes, and I believe the mods will most likely be compatible.
-Please let me know otherwise.  I will do functional tests tonight to confirm, time allowing.
+|Targeting version|UNSTABLE BETA.501s.4f3016a|
+|Date Started| 4/3/2026|
 
 The name of the mods in the list below may be different than the name of the mods on the Workshop page. 
 
@@ -23,7 +20,9 @@ The name of the mods in the list below may be different than the name of the mod
 # Mods
 |Status|Mod|
 |--|--|
-|❔|AutoLoadGame|
+|❌|AutoLoadGame - Note: User needs to abort countdown or hold left shift to prevent the "exiting game due to old save version" type error.|
+|❌|PityUnlock|
+|❌|RedsOptionalTweaks - See [subsection](#reds-optional-tweaks-sub-items) below|
 |❔|CameraToExits|
 |❔|CommandAlly|
 |❔|CompareDelta|
@@ -47,11 +46,9 @@ The name of the mods in the list below may be different than the name of the mod
 |❔|MoreCombatInfo|
 |❔|MoreProjects|
 |❔|PauseOnProduction|
-|❔|PityUnlock|
 |❔|ProduceAsReady|
 |❔|RaidShowAlly|
 |❔|RecycleHotKey|
-|❔|RedsOptionalTweaks - See [subsection](#reds-optional-tweaks-sub-items) below|
 |❔|ShowHunger|
 |❔|ShowTechLevel|
 |❔|ShowUpgradeResources|
@@ -67,6 +64,7 @@ The name of the mods in the list below may be different than the name of the mod
 |❔|TabHotkeys|
 |❔|UnityExplorer|
 |❔|UpdateWorkshopByName|
+
 # Red's Optional Tweaks sub items.
 
 |Status|Mod|
