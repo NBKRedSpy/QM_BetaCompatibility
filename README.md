@@ -21,13 +21,14 @@ The name of the mods in the list below may be different than the name of the mod
 |Status|Mod|
 |--|--|
 |❌|AutoLoadGame - Note: User needs to abort countdown or hold left shift to prevent the "exiting game due to old save version" type error.|
+|❌|DataExport - Needs new config_ files|
 |❌|PityUnlock|
 |❌|RedsOptionalTweaks - See [subsection](#reds-optional-tweaks-sub-items) below|
+|❌|SimpleDataLoader - Needs new config_ files|
 |❔|CameraToExits|
 |❔|CommandAlly|
 |❔|CompareDelta|
 |❔|ContextMenuHotkeys|
-|❔|DataExport|
 |❔|DecreaseWeaponsDegradation|
 |❔|DontShootBoxes|
 |❔|EnemyCountIndicator_Continued|
@@ -53,7 +54,6 @@ The name of the mods in the list below may be different than the name of the mod
 |❔|ShowTechLevel|
 |❔|ShowUpgradeResources|
 |❔|SilentFood|
-|❔|SimpleDataLoader|
 |❔|SkipDaysCommand|
 |❔|SortExcess|
 |❔|SpawnMonsterCommand|
