@@ -21,10 +21,10 @@ The name of the mods in the list below may be different than the name of the mod
 |Status|Mod|
 |--|--|
 |❌|AutoLoadGame - Note: User needs to abort countdown or hold left shift to prevent the "exiting game due to old save version" type error.|
-|❌|DataExport - Needs new config_ files|
+|❌|DataExport - Works. Needs new config_ files|
 |❌|PityUnlock|
 |❌|RedsOptionalTweaks - See [subsection](#reds-optional-tweaks-sub-items) below|
-|❌|SimpleDataLoader - Needs new config_ files|
+|❌|SimpleDataLoader - Works. Needs new config_ files|
 |❌|StorageSort|
 |❔|CameraToExits|
 |❔|CommandAlly|
