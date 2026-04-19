@@ -25,7 +25,7 @@ The name of the mods in the list below may be different than the name of the mod
 |❌|PityUnlock|
 |❌|RedsOptionalTweaks - See [subsection](#reds-optional-tweaks-sub-items) below|
 |❌|SimpleDataLoader - Works. Needs new config_ files|
-|❌|StorageSort|
+|❌|StorageSort - Todo:  Cannot reproduce.|
 |❔|CameraToExits|
 |❔|CommandAlly|
 |❔|CompareDelta|
