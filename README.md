@@ -26,7 +26,7 @@ The name of the mods in the list below may be different than the name of the mod
 |❌|RedsOptionalTweaks - See [subsection](#reds-optional-tweaks-sub-items) below|
 |❌|SimpleDataLoader - Works. Needs new config_ files|
 |❌|StorageSort - Todo:  Cannot reproduce.|
-|❔|CameraToExits|
+|❌|CameraToExits|
 |❔|CommandAlly|
 |❔|CompareDelta|
 |❔|ContextMenuHotkeys|
