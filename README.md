@@ -21,11 +21,11 @@ The name of the mods in the list below may be different than the name of the mod
 # Mods
 |Status|Mod|
 |--|--|
+|✅|AutoLoadGame - Note: User needs to abort countdown or hold left shift to prevent the "exiting game due to old save version" type error.|
 |✅|CameraToExits|
 |✅|MapMarkers|
 |✅|PityUnlock|
 |✅|StorageSort|
-|❌|AutoLoadGame - Note: User needs to abort countdown or hold left shift to prevent the "exiting game due to old save version" type error.|
 |❌|DataExport - Works. Needs new config_ files|
 |❌|RedsOptionalTweaks - not detecting new beta version number format. See [subsection](#reds-optional-tweaks-sub-items) below|
 |❌|SimpleDataLoader - Works. Needs new config_ files|
@@ -60,11 +60,11 @@ The name of the mods in the list below may be different than the name of the mod
 |☑️|TabHotkeys|
 |☑️|UnityExplorer|
 |☑️|UpdateWorkshopByName|
-|❔|DecreaseWeaponsDegradation|
+|☑️|DecreaseWeaponsDegradation|
 |❔|DontShootBoxes|
-|❔|InstantResearch|
-|❔|MoreProjects|
-|❔|SilentFood|
+|☑️|InstantResearch|
+|☑️|MoreProjects|
+|☑️|SilentFood|
 
 # Red's Optional Tweaks sub items.
 
