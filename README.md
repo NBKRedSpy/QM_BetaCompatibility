@@ -21,12 +21,13 @@ The name of the mods in the list below may be different than the name of the mod
 # Mods
 |Status|Mod|
 |--|--|
-|✅|StorageSort|
-|✅|PityUnlock|
 |✅|CameraToExits|
+|✅|MapMarkers|
+|✅|PityUnlock|
+|✅|StorageSort|
 |❌|AutoLoadGame - Note: User needs to abort countdown or hold left shift to prevent the "exiting game due to old save version" type error.|
 |❌|DataExport - Works. Needs new config_ files|
-|❌|RedsOptionalTweaks - See [subsection](#reds-optional-tweaks-sub-items) below|
+|❌|RedsOptionalTweaks - not detecting new beta version number format. See [subsection](#reds-optional-tweaks-sub-items) below|
 |❌|SimpleDataLoader - Works. Needs new config_ files|
 |❔|CommandAlly|
 |❔|CompareDelta|
@@ -42,7 +43,6 @@ The name of the mods in the list below may be different than the name of the mod
 |❔|ImprovedSort|
 |❔|InstantResearch|
 |❔|LockItemTransfer|
-|❔|MapMarkers|
 |❔|MapMoveSpeed|
 |❔|MiniMapMoveCamera|
 |❔|MissionExpirationHighlight|
