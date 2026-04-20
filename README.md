@@ -27,7 +27,7 @@ The name of the mods in the list below may be different than the name of the mod
 |✅|PityUnlock|
 |✅|StorageSort|
 |❌|DataExport - Works. Needs new config_ files|
-|❌|RedsOptionalTweaks - not detecting new beta version number format. See [subsection](#reds-optional-tweaks-sub-items) below|
+|☑️|RedsOptionalTweaks - not detecting new beta version number format. See [subsection](#reds-optional-tweaks-sub-items) below|
 |❌|SimpleDataLoader - Works. Needs new config_ files|
 |☑️|CommandAlly|
 |☑️|CompareDelta|
@@ -65,17 +65,18 @@ The name of the mods in the list below may be different than the name of the mod
 |☑️|TabHotkeys|
 |☑️|UnityExplorer|
 |☑️|UpdateWorkshopByName|
+
 # Red's Optional Tweaks sub items.
 
 |Status|Mod|
 |--|--|
-|❔|HoldToReload|
-|❔|ImplantIndicator|
-|❔|Mouse Quick Toss Rebind|
-|❔|QMeterVisual|
-|❔|RecycleHotkey|
-|❔|ShipSpeedBoost|
-|❔|Show Station Info|
-|❔|ShowExpMaxed|
-|❔|SplitStackHotkeys|
-|❔|StackTotalInventoryCount|
+|☑️|HoldToReload|
+|☑️|ImplantIndicator|
+|☑️|Mouse Quick Toss Rebind|
+|☑️|QMeterVisual|
+|☑️|RecycleHotkey|
+|☑️|ShipSpeedBoost|
+|☑️|Show Station Info|
+|☑️|ShowExpMaxed|
+|☑️|SplitStackHotkeys|
+|☑️|StackTotalInventoryCount|
