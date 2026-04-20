@@ -32,6 +32,8 @@ The name of the mods in the list below may be different than the name of the mod
 |☑️|CommandAlly|
 |☑️|CompareDelta|
 |☑️|ContextMenuHotkeys|
+|☑️|DecreaseWeaponsDegradation|
+|☑️|DontShootBoxes|
 |☑️|EnemyCountIndicator_Continued|
 |☑️|ExitWithoutSaveCommand|
 |☑️|ExternalLog|
@@ -39,11 +41,13 @@ The name of the mods in the list below may be different than the name of the mod
 |☑️|GraphicsResolutionToTop|
 |☑️|HighlightDamagingEffects|
 |☑️|ImprovedSort|
+|☑️|InstantResearch|
 |☑️|LockItemTransfer|
 |☑️|MapMoveSpeed|
 |☑️|MiniMapMoveCamera|
 |☑️|MissionExpirationHighlight|
 |☑️|MoreCombatInfo|
+|☑️|MoreProjects|
 |☑️|PauseOnProduction|
 |☑️|ProduceAsReady|
 |☑️|RaidShowAlly|
@@ -51,6 +55,7 @@ The name of the mods in the list below may be different than the name of the mod
 |☑️|ShowHunger|
 |☑️|ShowTechLevel|
 |☑️|ShowUpgradeResources|
+|☑️|SilentFood|
 |☑️|SkipDaysCommand|
 |☑️|SortExcess|
 |☑️|SpawnMonsterCommand|
@@ -60,12 +65,6 @@ The name of the mods in the list below may be different than the name of the mod
 |☑️|TabHotkeys|
 |☑️|UnityExplorer|
 |☑️|UpdateWorkshopByName|
-|☑️|DecreaseWeaponsDegradation|
-|❔|DontShootBoxes|
-|☑️|InstantResearch|
-|☑️|MoreProjects|
-|☑️|SilentFood|
-
 # Red's Optional Tweaks sub items.
 
 |Status|Mod|
