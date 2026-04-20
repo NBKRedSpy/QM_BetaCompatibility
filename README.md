@@ -29,42 +29,42 @@ The name of the mods in the list below may be different than the name of the mod
 |❌|DataExport - Works. Needs new config_ files|
 |❌|RedsOptionalTweaks - not detecting new beta version number format. See [subsection](#reds-optional-tweaks-sub-items) below|
 |❌|SimpleDataLoader - Works. Needs new config_ files|
-|❔|CommandAlly|
-|❔|CompareDelta|
-|❔|ContextMenuHotkeys|
+|☑️|CommandAlly|
+|☑️|CompareDelta|
+|☑️|ContextMenuHotkeys|
+|☑️|EnemyCountIndicator_Continued|
+|☑️|ExitWithoutSaveCommand|
+|☑️|ExternalLog|
+|☑️|ExtraDeployChecks|
+|☑️|GraphicsResolutionToTop|
+|☑️|HighlightDamagingEffects|
+|☑️|ImprovedSort|
+|☑️|LockItemTransfer|
+|☑️|MapMoveSpeed|
+|☑️|MiniMapMoveCamera|
+|☑️|MissionExpirationHighlight|
+|☑️|MoreCombatInfo|
+|☑️|PauseOnProduction|
+|☑️|ProduceAsReady|
+|☑️|RaidShowAlly|
+|☑️|RecycleHotKey|
+|☑️|ShowHunger|
+|☑️|ShowTechLevel|
+|☑️|ShowUpgradeResources|
+|☑️|SkipDaysCommand|
+|☑️|SortExcess|
+|☑️|SpawnMonsterCommand|
+|☑️|SpawnMultipleCommand|
+|☑️|SpeedToggle|
+|☑️|StopOnDetected|
+|☑️|TabHotkeys|
+|☑️|UnityExplorer|
+|☑️|UpdateWorkshopByName|
 |❔|DecreaseWeaponsDegradation|
 |❔|DontShootBoxes|
-|❔|EnemyCountIndicator_Continued|
-|❔|ExitWithoutSaveCommand|
-|❔|ExternalLog|
-|❔|ExtraDeployChecks|
-|❔|GraphicsResolutionToTop|
-|❔|HighlightDamagingEffects|
-|❔|ImprovedSort|
 |❔|InstantResearch|
-|❔|LockItemTransfer|
-|❔|MapMoveSpeed|
-|❔|MiniMapMoveCamera|
-|❔|MissionExpirationHighlight|
-|❔|MoreCombatInfo|
 |❔|MoreProjects|
-|❔|PauseOnProduction|
-|❔|ProduceAsReady|
-|❔|RaidShowAlly|
-|❔|RecycleHotKey|
-|❔|ShowHunger|
-|❔|ShowTechLevel|
-|❔|ShowUpgradeResources|
 |❔|SilentFood|
-|❔|SkipDaysCommand|
-|❔|SortExcess|
-|❔|SpawnMonsterCommand|
-|❔|SpawnMultipleCommand|
-|❔|SpeedToggle|
-|❔|StopOnDetected|
-|❔|TabHotkeys|
-|❔|UnityExplorer|
-|❔|UpdateWorkshopByName|
 
 # Red's Optional Tweaks sub items.
 
