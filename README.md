@@ -26,12 +26,10 @@ The name of the mods in the list below may be different than the name of the mod
 |✅|MapMarkers|
 |✅|PityUnlock|
 |✅|StorageSort|
-|❌|DataExport - Works. Needs new config_ files|
-|☑️|RedsOptionalTweaks - not detecting new beta version number format. See [subsection](#reds-optional-tweaks-sub-items) below|
-|❌|SimpleDataLoader - Works. Needs new config_ files|
 |☑️|CommandAlly|
 |☑️|CompareDelta|
 |☑️|ContextMenuHotkeys|
+|☑️|DataExport - This will be removed next game version since Simplt Data Import already handles export.|
 |☑️|DecreaseWeaponsDegradation|
 |☑️|DontShootBoxes|
 |☑️|EnemyCountIndicator_Continued|
@@ -52,10 +50,12 @@ The name of the mods in the list below may be different than the name of the mod
 |☑️|ProduceAsReady|
 |☑️|RaidShowAlly|
 |☑️|RecycleHotKey|
+|☑️|RedsOptionalTweaks - not detecting new beta version number format. See [subsection](#reds-optional-tweaks-sub-items) below|
 |☑️|ShowHunger|
 |☑️|ShowTechLevel|
 |☑️|ShowUpgradeResources|
 |☑️|SilentFood|
+|☑️|SimpleDataLoader - Works. Needs new config_ files|
 |☑️|SkipDaysCommand|
 |☑️|SortExcess|
 |☑️|SpawnMonsterCommand|
