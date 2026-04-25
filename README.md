@@ -27,7 +27,7 @@ The name of the mods in the list below may be different than the name of the mod
 |❔|PityUnlock|
 |❔|StorageSort|
 |❔|CommandAlly|
-|❔|CompareDelta|
+|✅|CompareDelta|
 |❔|ContextMenuHotkeys|
 |❔|DataExport - This will be removed next game version since Simplt Data Import already handles export.|
 |❔|DecreaseWeaponsDegradation|
@@ -35,31 +35,31 @@ The name of the mods in the list below may be different than the name of the mod
 |❔|EnemyCountIndicator_Continued|
 |❔|ExitWithoutSaveCommand|
 |❔|ExternalLog|
-|❔|ExtraDeployChecks|
-|❔|GraphicsResolutionToTop|
+|✅|ExtraDeployChecks|
+|✅|GraphicsResolutionToTop|
 |❔|HighlightDamagingEffects|
 |❔|ImprovedSort|
 |❔|InstantResearch|
 |❔|LockItemTransfer|
 |❔|MapMoveSpeed|
 |❔|MiniMapMoveCamera|
-|❔|MissionExpirationHighlight|
+|✅|MissionExpirationHighlight|
 |❔|MoreCombatInfo|
 |❔|MoreProjects|
 |❔|PauseOnProduction|
 |❔|ProduceAsReady|
-|❔|RaidShowAlly|
+|✅|RaidShowAlly|
 |❔|RecycleHotKey|
 |❔|RedsOptionalTweaks - not detecting new beta version number format. See [subsection](#reds-optional-tweaks-sub-items) below|
 |❔|ShowHunger|
-|❔|ShowTechLevel|
-|❔|ShowUpgradeResources|
+|✅|ShowTechLevel|
+|✅|ShowUpgradeResources|
 |❔|SilentFood|
-|❔|SimpleDataLoader - Works. Needs new config_ files|
+|✅|SimpleDataLoader|
 |❔|SkipDaysCommand|
-|❔|SortExcess|
+|✅|SortExcess|
 |❔|SpawnMonsterCommand|
-|❔|SpawnMultipleCommand|
+|✅|SpawnMultipleCommand|
 |❔|SpeedToggle|
 |❔|StopOnDetected|
 |❔|TabHotkeys|
@@ -72,11 +72,11 @@ The name of the mods in the list below may be different than the name of the mod
 |--|--|
 |❔|HoldToReload|
 |❔|ImplantIndicator|
-|❔|Mouse Quick Toss Rebind|
+|✅|Mouse Quick Toss Rebind|
 |❔|QMeterVisual|
 |❔|RecycleHotkey|
 |❔|ShipSpeedBoost|
-|❔|Show Station Info|
+|✅|Show Station Info|
 |❔|ShowExpMaxed|
-|❔|SplitStackHotkeys|
-|❔|StackTotalInventoryCount|
+|✅|SplitStackHotkeys|
+|✅|StackTotalInventoryCount|
