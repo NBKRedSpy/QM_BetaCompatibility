@@ -22,61 +22,61 @@ The name of the mods in the list below may be different than the name of the mod
 |Status|Mod|
 |--|--|
 |❔|AutoLoadGame - Note: User needs to abort countdown or hold left shift to prevent the "exiting game due to old save version" type error.|
-|❔|CameraToExits|
-|❔|MapMarkers|
-|❔|PityUnlock|
-|❔|StorageSort|
-|❔|CommandAlly|
+|✅|CameraToExits|
+|✅|MapMarkers|
+|✅|PityUnlock|
+|✅StorageSort|
+|✅|CommandAlly|
 |✅|CompareDelta|
-|❔|ContextMenuHotkeys|
-|❔|DataExport - This will be removed next game version since Simplt Data Import already handles export.|
+|✅|ContextMenuHotkeys|
+|✅|DataExport|
 |❔|DecreaseWeaponsDegradation|
 |❔|DontShootBoxes|
-|❔|EnemyCountIndicator_Continued|
-|❔|ExitWithoutSaveCommand|
-|❔|ExternalLog|
-|✅|ExtraDeployChecks|
+|✅|EnemyCountIndicator_Continued|
+|✅|ExitWithoutSaveCommand|
+|✅|ExternalLog|
+|❌|ExtraDeployChecks - Showing a weapon slot is not filled when this is not the case.|
 |✅|GraphicsResolutionToTop|
-|❔|HighlightDamagingEffects|
-|❔|ImprovedSort|
+|✅|HighlightDamagingEffects|
+|✅|ImprovedSort|
 |❔|InstantResearch|
-|❔|LockItemTransfer|
-|❔|MapMoveSpeed|
-|❔|MiniMapMoveCamera|
+|✅|LockItemTransfer|
+|✅|MapMoveSpeed|
+|✅|MiniMapMoveCamera|
 |✅|MissionExpirationHighlight|
-|❔|MoreCombatInfo|
+|✅|MoreCombatInfo|
 |❔|MoreProjects|
-|❔|PauseOnProduction|
-|❔|ProduceAsReady|
+|✅|PauseOnProduction|
+|✅|ProduceAsReady|
 |✅|RaidShowAlly|
-|❔|RecycleHotKey|
-|❔|RedsOptionalTweaks - not detecting new beta version number format. See [subsection](#reds-optional-tweaks-sub-items) below|
-|❔|ShowHunger|
+|✅|RecycleHotKey|
+|❔|RedsOptionalTweaks see [subsection](#reds-optional-tweaks-sub-items) below|
+|✅|ShowHunger|
 |✅|ShowTechLevel|
 |✅|ShowUpgradeResources|
 |❔|SilentFood|
 |✅|SimpleDataLoader|
 |❔|SkipDaysCommand|
 |✅|SortExcess|
-|❔|SpawnMonsterCommand|
+|✅|SpawnMonsterCommand|
 |✅|SpawnMultipleCommand|
-|❔|SpeedToggle|
+|✅|SpeedToggle|
 |❔|StopOnDetected|
-|❔|TabHotkeys|
-|❔|UnityExplorer|
-|❔|UpdateWorkshopByName|
+|✅|TabHotkeys|
+|✅|UnityExplorer|
+|✅|UpdateWorkshopByName|
 
 # Red's Optional Tweaks sub items.
 
 |Status|Mod|
 |--|--|
-|❔|HoldToReload|
-|❔|ImplantIndicator|
+|✅|HoldToReload|
+|✅|ImplantIndicator|
 |✅|Mouse Quick Toss Rebind|
-|❔|QMeterVisual|
-|❔|RecycleHotkey|
+|✅|QMeterVisual|
+|✅|RecycleHotkey|
 |❔|ShipSpeedBoost|
 |✅|Show Station Info|
-|❔|ShowExpMaxed|
+|✅|ShowExpMaxed|
 |✅|SplitStackHotkeys|
 |✅|StackTotalInventoryCount|
