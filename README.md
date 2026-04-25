@@ -21,50 +21,50 @@ The name of the mods in the list below may be different than the name of the mod
 # Mods
 |Status|Mod|
 |--|--|
-|❔|AutoLoadGame - Note: User needs to abort countdown or hold left shift to prevent the "exiting game due to old save version" type error.|
+|✅|AutoLoadGame|
 |✅|CameraToExits|
-|✅|MapMarkers|
-|✅|PityUnlock|
-|✅StorageSort|
 |✅|CommandAlly|
 |✅|CompareDelta|
 |✅|ContextMenuHotkeys|
 |✅|DataExport|
-|❔|DecreaseWeaponsDegradation|
-|❔|DontShootBoxes|
+|✅|DecreaseWeaponsDegradation|
+|✅|DontShootBoxes|
 |✅|EnemyCountIndicator_Continued|
 |✅|ExitWithoutSaveCommand|
 |✅|ExternalLog|
-|❌|ExtraDeployChecks - Showing a weapon slot is not filled when this is not the case.|
 |✅|GraphicsResolutionToTop|
 |✅|HighlightDamagingEffects|
 |✅|ImprovedSort|
-|❔|InstantResearch|
+|✅|InstantResearch|
 |✅|LockItemTransfer|
+|✅|MapMarkers|
 |✅|MapMoveSpeed|
 |✅|MiniMapMoveCamera|
 |✅|MissionExpirationHighlight|
 |✅|MoreCombatInfo|
-|❔|MoreProjects|
+|✅|MoreProjects|
 |✅|PauseOnProduction|
+|✅|PityUnlock|
 |✅|ProduceAsReady|
 |✅|RaidShowAlly|
 |✅|RecycleHotKey|
-|❔|RedsOptionalTweaks see [subsection](#reds-optional-tweaks-sub-items) below|
+|✅|RedsOptionalTweaks see [subsection](#reds-optional-tweaks-sub-items) below|
 |✅|ShowHunger|
 |✅|ShowTechLevel|
 |✅|ShowUpgradeResources|
-|❔|SilentFood|
+|✅|SilentFood|
 |✅|SimpleDataLoader|
-|❔|SkipDaysCommand|
+|✅|SkipDaysCommand|
 |✅|SortExcess|
 |✅|SpawnMonsterCommand|
 |✅|SpawnMultipleCommand|
 |✅|SpeedToggle|
-|❔|StopOnDetected|
+|✅|StopOnDetected|
 |✅|TabHotkeys|
 |✅|UnityExplorer|
 |✅|UpdateWorkshopByName|
+|✅StorageSort|
+|❌|ExtraDeployChecks - Showing a weapon slot is not filled when this is not the case.|
 
 # Red's Optional Tweaks sub items.
 
@@ -75,7 +75,7 @@ The name of the mods in the list below may be different than the name of the mod
 |✅|Mouse Quick Toss Rebind|
 |✅|QMeterVisual|
 |✅|RecycleHotkey|
-|❔|ShipSpeedBoost|
+|✅|ShipSpeedBoost|
 |✅|Show Station Info|
 |✅|ShowExpMaxed|
 |✅|SplitStackHotkeys|
