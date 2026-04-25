@@ -32,6 +32,7 @@ The name of the mods in the list below may be different than the name of the mod
 |✅|EnemyCountIndicator_Continued|
 |✅|ExitWithoutSaveCommand|
 |✅|ExternalLog|
+|✅|ExtraDeployChecks|
 |✅|GraphicsResolutionToTop|
 |✅|HighlightDamagingEffects|
 |✅|ImprovedSort|
@@ -64,7 +65,6 @@ The name of the mods in the list below may be different than the name of the mod
 |✅|UnityExplorer|
 |✅|UpdateWorkshopByName|
 |✅StorageSort|
-|❌|ExtraDeployChecks - Showing a weapon slot is not filled when this is not the case.|
 
 # Red's Optional Tweaks sub items.
 
