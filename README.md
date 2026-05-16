@@ -22,61 +22,61 @@ The name of the mods in the list below may be different than the name of the mod
 |Status|Mod|
 |--|--|
 |✅|ShowTechLevel|
-|❔|AutoLoadGame|
-|❔|CameraToExits|
-|❔|CommandAlly|
-|❔|CompareDelta|
-|❔|ContextMenuHotkeys|
-|❔|DataExport|
-|❔|DecreaseWeaponsDegradation|
-|❔|DontShootBoxes|
-|❔|EnemyCountIndicator_Continued|
-|❔|ExitWithoutSaveCommand|
-|❔|ExternalLog|
-|❔|ExtraDeployChecks|
-|❔|GraphicsResolutionToTop|
-|❔|HighlightDamagingEffects|
-|❔|ImprovedSort|
-|❔|InstantResearch|
-|❔|LockItemTransfer|
-|❔|MapMarkers|
-|❔|MapMoveSpeed|
-|❔|MiniMapMoveCamera|
-|❔|MissionExpirationHighlight|
-|❔|MoreCombatInfo|
-|❔|MoreProjects|
-|❔|PauseOnProduction|
-|❔|PityUnlock|
-|❔|ProduceAsReady|
-|❔|RaidShowAlly|
-|❔|RecycleHotKey|
-|❔|RedsOptionalTweaks see [subsection](#reds-optional-tweaks-sub-items) below|
-|❔|ShowHunger|
-|❔|ShowUpgradeResources|
-|❔|SilentFood|
-|❔|SimpleDataLoader|
-|❔|SkipDaysCommand|
-|❔|SortExcess|
-|❔|SpawnMonsterCommand|
-|❔|SpawnMultipleCommand|
-|❔|SpeedToggle|
-|❔|StopOnDetected|
-|❔|TabHotkeys|
-|❔|UnityExplorer|
-|❔|UpdateWorkshopByName|
-|❔StorageSort|
+|✅|AutoLoadGame|
+|✅|CameraToExits|
+|✅|CommandAlly|
+|✅|CompareDelta|
+|✅|ContextMenuHotkeys|
+|✅|DataExport|
+|✅|DecreaseWeaponsDegradation|
+|✅|DontShootBoxes|
+|✅|EnemyCountIndicator_Continued|
+|✅|ExitWithoutSaveCommand|
+|✅|ExternalLog|
+|✅|ExtraDeployChecks|
+|✅|GraphicsResolutionToTop|
+|✅|HighlightDamagingEffects|
+|✅|ImprovedSort|
+|✅|InstantResearch|
+|✅|LockItemTransfer|
+|✅|MapMarkers|
+|✅|MapMoveSpeed|
+|✅|MiniMapMoveCamera|
+|✅|MissionExpirationHighlight|
+|✅|MoreCombatInfo|
+|✅|MoreProjects|
+|✅|PauseOnProduction|
+|✅|PityUnlock|
+|✅|ProduceAsReady|
+|✅|RaidShowAlly|
+|✅|RecycleHotKey|
+|✅|RedsOptionalTweaks see [subsection](#reds-optional-tweaks-sub-items) below|
+|✅|ShowHunger|
+|✅|ShowUpgradeResources|
+|✅|SilentFood|
+|✅|SimpleDataLoader|
+|✅|SkipDaysCommand|
+|✅|SortExcess|
+|✅|SpawnMonsterCommand|
+|✅|SpawnMultipleCommand|
+|✅|SpeedToggle|
+|✅|StopOnDetected|
+|✅|TabHotkeys|
+|✅|UnityExplorer|
+|✅|UpdateWorkshopByName|
+|✅StorageSort|
 
 # Red's Optional Tweaks sub items.
 
 |Status|Mod|
 |--|--|
-|❔|HoldToReload|
-|❔|ImplantIndicator|
-|❔|Mouse Quick Toss Rebind|
-|❔|QMeterVisual|
-|❔|RecycleHotkey|
-|❔|ShipSpeedBoost|
-|❔|Show Station Info|
-|❔|ShowExpMaxed|
-|❔|SplitStackHotkeys|
-|❔|StackTotalInventoryCount|
+|✅|HoldToReload|
+|✅|ImplantIndicator|
+|✅|Mouse Quick Toss Rebind|
+|✅|QMeterVisual|
+|✅|RecycleHotkey|
+|✅|ShipSpeedBoost|
+|❌|Show Station Info - is requiring ctrl + alt for some reason|
+|✅|ShowExpMaxed|
+|✅|SplitStackHotkeys|
+|❌|StackTotalInventoryCount - is requiring ctrl + alt for some reason|
