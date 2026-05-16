@@ -21,7 +21,7 @@ The name of the mods in the list below may be different than the name of the mod
 # Mods
 |Status|Mod|
 |--|--|
-|❌|ShowTechLevel|
+|✅|ShowTechLevel|
 |❔|AutoLoadGame|
 |❔|CameraToExits|
 |❔|CommandAlly|
