@@ -76,7 +76,7 @@ The name of the mods in the list below may be different than the name of the mod
 |✅|QMeterVisual|
 |✅|RecycleHotkey|
 |✅|ShipSpeedBoost|
-|❌|Show Station Info - is requiring ctrl + alt for some reason|
+|✅|Show Station Info - is requiring ctrl + alt for some reason|
 |✅|ShowExpMaxed|
 |✅|SplitStackHotkeys|
-|❌|StackTotalInventoryCount - is requiring ctrl + alt for some reason|
+|✅|StackTotalInventoryCount - is requiring ctrl + alt for some reason|
