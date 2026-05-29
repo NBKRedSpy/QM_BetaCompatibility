@@ -2,8 +2,8 @@ The compatibility of my mods with the specified beta.
 
 |||
 |--|--|
-|Targeting version|UNSTABLE BETA.-.627d428|
-|Date Started| 5/15/2026|
+|Targeting version|UNSTABLE BETA.522.627d428|
+|Date Started| 5/29/2026|
 
 The name of the mods in the list below may be different than the name of the mods on the Workshop page. 
 
@@ -21,62 +21,62 @@ The name of the mods in the list below may be different than the name of the mod
 # Mods
 |Status|Mod|
 |--|--|
-|✅|ShowTechLevel|
-|✅|AutoLoadGame|
-|✅|CameraToExits|
-|✅|CommandAlly|
-|✅|CompareDelta|
-|✅|ContextMenuHotkeys|
-|✅|DataExport|
-|✅|DecreaseWeaponsDegradation|
-|✅|DontShootBoxes|
-|✅|EnemyCountIndicator_Continued|
-|✅|ExitWithoutSaveCommand|
-|✅|ExternalLog|
-|✅|ExtraDeployChecks|
-|✅|GraphicsResolutionToTop|
-|✅|HighlightDamagingEffects|
-|✅|ImprovedSort|
-|✅|InstantResearch|
-|✅|LockItemTransfer|
-|✅|MapMarkers|
-|✅|MapMoveSpeed|
-|✅|MiniMapMoveCamera|
-|✅|MissionExpirationHighlight|
-|✅|MoreCombatInfo|
-|✅|MoreProjects|
-|✅|PauseOnProduction|
-|✅|PityUnlock|
-|✅|ProduceAsReady|
-|✅|RaidShowAlly|
-|✅|RecycleHotKey|
-|✅|RedsOptionalTweaks see [subsection](#reds-optional-tweaks-sub-items) below|
-|✅|ShowHunger|
-|✅|ShowUpgradeResources|
-|✅|SilentFood|
-|✅|SimpleDataLoader|
-|✅|SkipDaysCommand|
-|✅|SortExcess|
-|✅|SpawnMonsterCommand|
-|✅|SpawnMultipleCommand|
-|✅|SpeedToggle|
-|✅|StopOnDetected|
-|✅|TabHotkeys|
-|✅|UnityExplorer|
-|✅|UpdateWorkshopByName|
-|✅StorageSort|
+|❓|MissionExpirationHighlight|
+|❔|ShowTechLevel|
+|❔|AutoLoadGame|
+|❔|CameraToExits|
+|❔|CommandAlly|
+|❔|CompareDelta|
+|❔|ContextMenuHotkeys|
+|❔|DataExport|
+|❔|DecreaseWeaponsDegradation|
+|❔|DontShootBoxes|
+|❔|EnemyCountIndicator_Continued|
+|❔|ExitWithoutSaveCommand|
+|❔|ExternalLog|
+|❔|ExtraDeployChecks|
+|❔|GraphicsResolutionToTop|
+|❔|HighlightDamagingEffects|
+|❔|ImprovedSort|
+|❔|InstantResearch|
+|❔|LockItemTransfer|
+|❔|MapMarkers|
+|❔|MapMoveSpeed|
+|❔|MiniMapMoveCamera|
+|❔|MoreCombatInfo|
+|❔|MoreProjects|
+|❔|PauseOnProduction|
+|❔|PityUnlock|
+|❔|ProduceAsReady|
+|❔|RaidShowAlly|
+|❔|RecycleHotKey|
+|❔|RedsOptionalTweaks see [subsection](#reds-optional-tweaks-sub-items) below|
+|❔|ShowHunger|
+|❔|ShowUpgradeResources|
+|❔|SilentFood|
+|❔|SimpleDataLoader|
+|❔|SkipDaysCommand|
+|❔|SortExcess|
+|❔|SpawnMonsterCommand|
+|❔|SpawnMultipleCommand|
+|❔|SpeedToggle|
+|❔|StopOnDetected|
+|❔|TabHotkeys|
+|❔|UnityExplorer|
+|❔|UpdateWorkshopByName|
+|❔StorageSort|
 
 # Red's Optional Tweaks sub items.
 
 |Status|Mod|
 |--|--|
-|✅|HoldToReload|
-|✅|ImplantIndicator|
-|✅|Mouse Quick Toss Rebind|
-|✅|QMeterVisual|
-|✅|RecycleHotkey|
-|✅|ShipSpeedBoost|
-|✅|Show Station Info - is requiring ctrl + alt for some reason|
-|✅|ShowExpMaxed|
-|✅|SplitStackHotkeys|
-|✅|StackTotalInventoryCount - is requiring ctrl + alt for some reason|
+|❔|HoldToReload|
+|❔|ImplantIndicator|
+|❔|Mouse Quick Toss Rebind|
+|❔|QMeterVisual|
+|❔|RecycleHotkey|
+|❔|ShipSpeedBoost|
+|❔|Show Station Info - is requiring ctrl + alt for some reason|
+|❔|ShowExpMaxed|
+|❔|SplitStackHotkeys|
+|❔|StackTotalInventoryCount - is requiring ctrl + alt for some reason|
