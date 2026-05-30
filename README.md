@@ -21,15 +21,15 @@ The name of the mods in the list below may be different than the name of the mod
 # Mods
 |Status|Mod|
 |--|--|
+|❌|CommandAlly - ally options are not showing.  Star indicator is though.|
 |☑️|MissionExpirationHighlight|
 |☑️|ShowTechLevel|
 |☑️|AutoLoadGame|
 |☑️|CameraToExits|
-|❌|CommandAlly - ally options are not showing.  Star indicator is though.|
 |☑️|CompareDelta|
 |☑️|ContextMenuHotkeys|
 |☑️|DataExport|
-|❔|DecreaseWeaponsDegradation|
+|☑️|DecreaseWeaponsDegradation|
 |☑️|DontShootBoxes|
 |☑️|EnemyCountIndicator_Continued|
 |☑️|ExitWithoutSaveCommand|
@@ -50,7 +50,7 @@ The name of the mods in the list below may be different than the name of the mod
 |☑️|ProduceAsReady|
 |☑️|RaidShowAlly|
 |☑️|RecycleHotKey|
-|❔|RedsOptionalTweaks see [subsection](#reds-optional-tweaks-sub-items) below|
+|☑️|RedsOptionalTweaks see [subsection](#reds-optional-tweaks-sub-items) below|
 |☑️|ShowHunger|
 |☑️|ShowUpgradeResources|
 |☑️|SilentFood|
