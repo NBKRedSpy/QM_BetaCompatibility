@@ -21,11 +21,9 @@ The name of the mods in the list below may be different than the name of the mod
 # Mods
 |Status|Mod|
 |--|--|
-|❌|CommandAlly - ally options are not showing.  Star indicator is though.|
-|☑️|MissionExpirationHighlight|
-|☑️|ShowTechLevel|
 |☑️|AutoLoadGame|
 |☑️|CameraToExits|
+|☑️|CommandAlly - ally options are not showing.  Star indicator is though.|
 |☑️|CompareDelta|
 |☑️|ContextMenuHotkeys|
 |☑️|DataExport|
@@ -43,6 +41,7 @@ The name of the mods in the list below may be different than the name of the mod
 |☑️|MapMarkers|
 |☑️|MapMoveSpeed|
 |☑️|MiniMapMoveCamera|
+|☑️|MissionExpirationHighlight|
 |☑️|MoreCombatInfo|
 |☑️|MoreProjects|
 |☑️|PauseOnProduction|
@@ -52,6 +51,7 @@ The name of the mods in the list below may be different than the name of the mod
 |☑️|RecycleHotKey|
 |☑️|RedsOptionalTweaks see [subsection](#reds-optional-tweaks-sub-items) below|
 |☑️|ShowHunger|
+|☑️|ShowTechLevel|
 |☑️|ShowUpgradeResources|
 |☑️|SilentFood|
 |☑️|SimpleDataLoader|
@@ -61,10 +61,10 @@ The name of the mods in the list below may be different than the name of the mod
 |☑️|SpawnMultipleCommand|
 |☑️|SpeedToggle|
 |☑️|StopOnDetected|
+|☑️|StorageSort|
 |☑️|TabHotkeys|
 |☑️|UnityExplorer|
 |☑️|UpdateWorkshopByName|
-|☑️|StorageSort|
 
 # Red's Optional Tweaks sub items.
 
