@@ -21,9 +21,10 @@ The name of the mods in the list below may be different than the name of the mod
 # Mods
 |Status|Mod|
 |--|--|
+|✅|CommandAlly|
+|✅|SilentFood|
 |☑️|AutoLoadGame|
 |☑️|CameraToExits|
-|☑️|CommandAlly - ally options are not showing.  Star indicator is though.|
 |☑️|CompareDelta|
 |☑️|ContextMenuHotkeys|
 |☑️|DataExport|
@@ -53,7 +54,6 @@ The name of the mods in the list below may be different than the name of the mod
 |☑️|ShowHunger|
 |☑️|ShowTechLevel|
 |☑️|ShowUpgradeResources|
-|☑️|SilentFood|
 |☑️|SimpleDataLoader|
 |☑️|SkipDaysCommand|
 |☑️|SortExcess|
