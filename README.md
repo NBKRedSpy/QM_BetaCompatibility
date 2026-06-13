@@ -2,8 +2,8 @@ The compatibility of my mods with the specified beta.
 
 |||
 |--|--|
-|Targeting version|UNSTABLE BETA.529s.e66a246|
-|Date Started| 6/12/2026|
+|Targeting version|UNSTABLE BETA.530s.2b2dd41|
+|Date Started| 6/13/2026|
 
 The name of the mods in the list below may be different than the name of the mods on the Workshop page. 
 
