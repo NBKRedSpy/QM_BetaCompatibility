@@ -21,62 +21,62 @@ The name of the mods in the list below may be different than the name of the mod
 # Mods
 |Status|Mod|
 |--|--|
-|❌|ProduceAsReady - Doesn't update the production acheivement. |
-|❔|CommandAlly|
-|❔|SilentFood|
-|❔|AutoLoadGame|
-|❔|CameraToExits|
-|❔|CompareDelta|
-|❔|ContextMenuHotkeys|
-|❔|DataExport|
-|❔|DecreaseWeaponsDegradation|
-|❔|DontShootBoxes|
-|❔|EnemyCountIndicator_Continued|
-|❔|ExitWithoutSaveCommand|
-|❔|ExternalLog|
-|❔|ExtraDeployChecks|
-|❔|GraphicsResolutionToTop|
-|❔|HighlightDamagingEffects|
-|❔|ImprovedSort|
-|❔|InstantResearch|
-|❔|LockItemTransfer|
-|❔|MapMarkers|
-|❔|MapMoveSpeed|
-|❔|MiniMapMoveCamera|
-|❔|MissionExpirationHighlight|
-|❔|MoreCombatInfo|
-|❔|MoreProjects|
-|❔|PauseOnProduction|
-|❔|PityUnlock|
-|❔|RaidShowAlly|
-|❔|RecycleHotKey|
-|❔|RedsOptionalTweaks see [subsection](#reds-optional-tweaks-sub-items) below|
-|❔|ShowHunger|
-|❔|ShowTechLevel|
-|❔|ShowUpgradeResources|
-|❔|SimpleDataLoader|
-|❔|SkipDaysCommand|
-|❔|SortExcess|
-|❔|SpawnMonsterCommand|
-|❔|SpawnMultipleCommand|
-|❔|SpeedToggle|
-|❔|StopOnDetected|
-|❔|StorageSort|
-|❔|TabHotkeys|
-|❔|UnityExplorer|
-|❔|UpdateWorkshopByName|
+|❌|ProduceAsReady - Works, but doesn't update the production acheivement. |
+|❌|ExtraDeployChecks - Works, but will fix issue where cyber limbs would give weapon slot empty warning.|
+|☑️|CommandAlly|
+|☑️|SilentFood|
+|☑️|AutoLoadGame|
+|☑️|CameraToExits|
+|☑️|CompareDelta|
+|☑️|ContextMenuHotkeys|
+|☑️|DataExport|
+|☑️|DecreaseWeaponsDegradation|
+|☑️|DontShootBoxes|
+|☑️|EnemyCountIndicator_Continued|
+|☑️|ExitWithoutSaveCommand|
+|☑️|ExternalLog|
+|☑️|GraphicsResolutionToTop|
+|☑️|HighlightDamagingEffects|
+|☑️|ImprovedSort|
+|☑️|InstantResearch|
+|☑️|LockItemTransfer|
+|☑️|MapMarkers|
+|☑️|MapMoveSpeed|
+|☑️|MiniMapMoveCamera|
+|☑️|MissionExpirationHighlight|
+|☑️|MoreCombatInfo|
+|☑️|MoreProjects|
+|☑️|PauseOnProduction|
+|☑️|PityUnlock|
+|☑️|RaidShowAlly|
+|☑️|RecycleHotKey|
+|☑️|RedsOptionalTweaks see [subsection](#reds-optional-tweaks-sub-items) below|
+|☑️|ShowHunger|
+|☑️|ShowTechLevel|
+|☑️|ShowUpgradeResources|
+|☑️|SimpleDataLoader|
+|☑️|SkipDaysCommand|
+|☑️|SortExcess|
+|☑️|SpawnMonsterCommand|
+|☑️|SpawnMultipleCommand|
+|☑️|SpeedToggle|
+|☑️|StopOnDetected|
+|☑️|StorageSort|
+|☑️|TabHotkeys|
+|☑️|UnityExplorer|
+|☑️|UpdateWorkshopByName|
 
 # Red's Optional Tweaks sub items.
 
 |Status|Mod|
 |--|--|
-|❔|HoldToReload|
-|❔|ImplantIndicator|
-|❔|Mouse Quick Toss Rebind|
-|❔|QMeterVisual|
-|❔|RecycleHotkey|
-|❔|ShipSpeedBoost|
-|❔|Show Station Info|
-|❔|ShowExpMaxed|
-|❔|SplitStackHotkeys|
-|❔|StackTotalInventoryCount|
+|☑️|HoldToReload|
+|☑️|ImplantIndicator|
+|☑️|Mouse Quick Toss Rebind|
+|☑️|QMeterVisual|
+|☑️|RecycleHotkey|
+|☑️|ShipSpeedBoost|
+|☑️|Show Station Info|
+|☑️|ShowExpMaxed|
+|☑️|SplitStackHotkeys|
+|☑️|StackTotalInventoryCount|
