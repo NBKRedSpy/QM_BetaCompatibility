@@ -21,12 +21,10 @@ The name of the mods in the list below may be different than the name of the mod
 # Mods
 |Status|Mod|
 |--|--|
-|❌|ProduceAsReady - Works, but doesn't update the production acheivement. |
 |❌|ExtraDeployChecks - Works, but will fix issue where cyber limbs would give weapon slot empty warning.|
-|☑️|CommandAlly|
-|☑️|SilentFood|
 |☑️|AutoLoadGame|
 |☑️|CameraToExits|
+|☑️|CommandAlly|
 |☑️|CompareDelta|
 |☑️|ContextMenuHotkeys|
 |☑️|DataExport|
@@ -48,12 +46,14 @@ The name of the mods in the list below may be different than the name of the mod
 |☑️|MoreProjects|
 |☑️|PauseOnProduction|
 |☑️|PityUnlock|
+|☑️|ProduceAsReady - Works, but doesn't update the production acheivement. |
 |☑️|RaidShowAlly|
 |☑️|RecycleHotKey|
 |☑️|RedsOptionalTweaks see [subsection](#reds-optional-tweaks-sub-items) below|
 |☑️|ShowHunger|
 |☑️|ShowTechLevel|
 |☑️|ShowUpgradeResources|
+|☑️|SilentFood|
 |☑️|SimpleDataLoader|
 |☑️|SkipDaysCommand|
 |☑️|SortExcess|
