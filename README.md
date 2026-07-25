@@ -21,6 +21,7 @@ The name of the mods in the list below may be different than the name of the mod
 # Mods
 |Status|Mod|
 |--|--|
+|❌|CommandAlly|
 |✅|CameraToExits|
 |✅|ExtraDeployChecks|
 |✅|MapMarkers|
@@ -31,40 +32,39 @@ The name of the mods in the list below may be different than the name of the mod
 |✅|SimpleDataLoader|
 |✅|StorageSort|
 |☑️|AutoLoadGame|
+|☑️|CompareDelta|
+|☑️|ContextMenuHotkeys|
 |☑️|ExitWithoutSaveCommand|
+|☑️|ExternalLog|
+|☑️|GraphicsResolutionToTop|
+|☑️|HighlightDamagingEffects|
+|☑️|ImprovedSort|
+|☑️|InstantResearch|
+|☑️|LockItemTransfer|
+|☑️|MapMoveSpeed|
+|☑️|MiniMapMoveCamera|
+|☑️|MissionExpirationHighlight|
+|☑️|MoreCombatInfo|
+|☑️|PauseOnProduction|
+|☑️|RecycleHotKey|
+|☑️|ShowHunger|
+|☑️|ShowUpgradeResources|
+|☑️|SilentFood|
 |☑️|SkipDaysCommand|
+|☑️|SortExcess|
 |☑️|SpawnMonsterCommand|
+|☑️|SpawnMultipleCommand|
+|☑️|SpeedToggle|
+|☑️|TabHotkeys|
+|☑️|UnityExplorer|
 |☑️|UpdateWorkshopByName|
-|❔|CommandAlly|
-|❔|CompareDelta|
-|❔|ContextMenuHotkeys|
 |❔|DecreaseWeaponsDegradation|
 |❔|DontShootBoxes|
 |❔|EnemyCountIndicator_Continued|
-|❔|ExternalLog|
-|❔|GraphicsResolutionToTop|
-|❔|HighlightDamagingEffects|
-|❔|ImprovedSort|
-|❔|InstantResearch|
-|❔|ItalianTranslation|
-|❔|LockItemTransfer|
-|❔|MapMoveSpeed|
-|❔|MiniMapMoveCamera|
-|❔|MissionExpirationHighlight|
-|❔|MoreCombatInfo|
+|❔|ItalianTranslation - New text needs to be added|
 |❔|MoreProjects|
-|❔|PauseOnProduction|
 |❔|RaidShowAlly|
-|❔|RecycleHotKey|
-|❔|ShowHunger|
-|❔|ShowUpgradeResources|
-|❔|SilentFood|
-|❔|SortExcess|
-|❔|SpawnMultipleCommand|
-|❔|SpeedToggle|
 |❔|StopOnDetected|
-|❔|TabHotkeys|
-|❔|UnityExplorer|
 
 # Red's Optional Tweaks sub items.
 
