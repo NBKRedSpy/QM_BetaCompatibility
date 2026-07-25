@@ -26,7 +26,10 @@ The name of the mods in the list below may be different than the name of the mod
 |✅|MapMarkers|
 |✅|PityUnlock|
 |✅|ProduceAsReady|
+|✅|RedsOptionalTweaks see [subsection](#reds-optional-tweaks-sub-items) below|
 |✅|ShowTechLevel|
+|✅|SimpleDataLoader|
+|✅|StorageSort|
 |❔|AutoLoadGame|
 |❔|CommandAlly|
 |❔|CompareDelta|
@@ -50,18 +53,15 @@ The name of the mods in the list below may be different than the name of the mod
 |❔|PauseOnProduction|
 |❔|RaidShowAlly|
 |❔|RecycleHotKey|
-|❔|RedsOptionalTweaks see [subsection](#reds-optional-tweaks-sub-items) below|
 |❔|ShowHunger|
 |❔|ShowUpgradeResources|
 |❔|SilentFood|
-|❔|SimpleDataLoader|
 |❔|SkipDaysCommand|
 |❔|SortExcess|
 |❔|SpawnMonsterCommand|
 |❔|SpawnMultipleCommand|
 |❔|SpeedToggle|
 |❔|StopOnDetected|
-|❔|StorageSort|
 |❔|TabHotkeys|
 |❔|UnityExplorer|
 |❔|UpdateWorkshopByName|
