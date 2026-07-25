@@ -30,15 +30,17 @@ The name of the mods in the list below may be different than the name of the mod
 |✅|ShowTechLevel|
 |✅|SimpleDataLoader|
 |✅|StorageSort|
-|❔|AutoLoadGame|
+|☑️|AutoLoadGame|
+|☑️|ExitWithoutSaveCommand|
+|☑️|SkipDaysCommand|
+|☑️|SpawnMonsterCommand|
+|☑️|UpdateWorkshopByName|
 |❔|CommandAlly|
 |❔|CompareDelta|
 |❔|ContextMenuHotkeys|
-|❔|DataExport|
 |❔|DecreaseWeaponsDegradation|
 |❔|DontShootBoxes|
 |❔|EnemyCountIndicator_Continued|
-|❔|ExitWithoutSaveCommand|
 |❔|ExternalLog|
 |❔|GraphicsResolutionToTop|
 |❔|HighlightDamagingEffects|
@@ -57,15 +59,12 @@ The name of the mods in the list below may be different than the name of the mod
 |❔|ShowHunger|
 |❔|ShowUpgradeResources|
 |❔|SilentFood|
-|❔|SkipDaysCommand|
 |❔|SortExcess|
-|❔|SpawnMonsterCommand|
 |❔|SpawnMultipleCommand|
 |❔|SpeedToggle|
 |❔|StopOnDetected|
 |❔|TabHotkeys|
 |❔|UnityExplorer|
-|❔|UpdateWorkshopByName|
 
 # Red's Optional Tweaks sub items.
 
