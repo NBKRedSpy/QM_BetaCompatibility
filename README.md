@@ -21,10 +21,11 @@ The name of the mods in the list below may be different than the name of the mod
 # Mods
 |Status|Mod|
 |--|--|
+|❌|CameraToExits - in progress|
+|❌|MapMarkers|
 |✅|PityUnlock|
-|❌|ShowTechLevel|
+|✅|ShowTechLevel|
 |❔|AutoLoadGame|
-|❔|CameraToExits|
 |❔|CommandAlly|
 |❔|CompareDelta|
 |❔|ContextMenuHotkeys|
@@ -40,7 +41,6 @@ The name of the mods in the list below may be different than the name of the mod
 |❔|ImprovedSort|
 |❔|InstantResearch|
 |❔|LockItemTransfer|
-|❔|MapMarkers|
 |❔|MapMoveSpeed|
 |❔|MiniMapMoveCamera|
 |❔|MissionExpirationHighlight|
