@@ -44,6 +44,7 @@ The name of the mods in the list below may be different than the name of the mod
 |❔|HighlightDamagingEffects|
 |❔|ImprovedSort|
 |❔|InstantResearch|
+|❔|ItalianTranslation|
 |❔|LockItemTransfer|
 |❔|MapMoveSpeed|
 |❔|MiniMapMoveCamera|
