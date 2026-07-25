@@ -21,7 +21,7 @@ The name of the mods in the list below may be different than the name of the mod
 # Mods
 |Status|Mod|
 |--|--|
-|❌|CommandAlly|
+|✅|CommandAlly|
 |✅|CameraToExits|
 |✅|ExtraDeployChecks|
 |✅|MapMarkers|
@@ -34,6 +34,7 @@ The name of the mods in the list below may be different than the name of the mod
 |☑️|AutoLoadGame|
 |☑️|CompareDelta|
 |☑️|ContextMenuHotkeys|
+|☑️|EnemyCountIndicator_Continued|
 |☑️|ExitWithoutSaveCommand|
 |☑️|ExternalLog|
 |☑️|GraphicsResolutionToTop|
@@ -55,28 +56,27 @@ The name of the mods in the list below may be different than the name of the mod
 |☑️|SpawnMonsterCommand|
 |☑️|SpawnMultipleCommand|
 |☑️|SpeedToggle|
+|☑️|StopOnDetected|
 |☑️|TabHotkeys|
 |☑️|UnityExplorer|
 |☑️|UpdateWorkshopByName|
-|❔|DecreaseWeaponsDegradation|
-|❔|DontShootBoxes|
-|❔|EnemyCountIndicator_Continued|
+|☑️|MoreProjects|
+|☑️|RaidShowAlly|
+|☑️|DecreaseWeaponsDegradation|
+|☑️|DontShootBoxes|
 |❔|ItalianTranslation - New text needs to be added|
-|❔|MoreProjects|
-|❔|RaidShowAlly|
-|❔|StopOnDetected|
 
 # Red's Optional Tweaks sub items.
 
 |Status|Mod|
 |--|--|
-|❔|HoldToReload|
-|❔|ImplantIndicator|
-|❔|Mouse Quick Toss Rebind|
-|❔|QMeterVisual|
-|❔|RecycleHotkey|
-|❔|ShipSpeedBoost|
-|❔|Show Station Info|
-|❔|ShowExpMaxed|
-|❔|SplitStackHotkeys|
-|❔|StackTotalInventoryCount|
+|☑️|HoldToReload|
+|☑️|ImplantIndicator|
+|☑️|Mouse Quick Toss Rebind|
+|☑️|QMeterVisual|
+|☑️|RecycleHotkey|
+|☑️|ShipSpeedBoost|
+|☑️|Show Station Info|
+|☑️|ShowExpMaxed|
+|☑️|SplitStackHotkeys|
+|☑️|StackTotalInventoryCount|
