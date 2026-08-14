@@ -19,51 +19,52 @@ The name of the mods in the list below may be different than the name of the mod
 |❔|Unknown|
 
 # Mods
+
 |Status|Mod|
 |--|--|
-|❔|AutoLoadGame|
+|✅|AutoLoadGame|
+|✅|CompareDelta|
+|✅|ContextMenuHotkeys|
+|✅|ExternalLog|
+|✅|ExtraDeployChecks|
+|✅|GraphicsResolutionToTop|
+|✅|ImprovedSort|
+|✅|MissionExpirationHighlight|
+|✅|PauseOnProduction|
+|✅|PityUnlock|
+|✅|ProduceAsReady|
+|✅|RaidShowAlly|
+|✅|ShowTechLevel - in progress of upgrade.  Existing mod doesn't show info, but doesn't affect anything.|
+|✅|ShowUpgradeResources|
+|✅|SimpleDataLoader|
+|✅|SkipDaysCommand|
+|✅|ExitWithoutSaveCommand|
+|❔ - enable|MoreProjects|
+|❔ - enable|SilentFood|
+|❔ - works|StorageSort - Internal: Check if the sort code has been simplified.|
 |❔|CameraToExits|
 |❔|CommandAlly|
-|❔|CompareDelta|
-|❔|ContextMenuHotkeys|
 |❔|DecreaseWeaponsDegradation|
 |❔|DontShootBoxes|
 |❔|EnemyCountIndicator_Continued|
-|❔|ExitWithoutSaveCommand|
-|❔|ExternalLog|
-|❔|ExtraDeployChecks|
-|❔|GraphicsResolutionToTop|
 |❔|HighlightDamagingEffects|
 |❔|ImplantIndicator|
-|❔|ImprovedSort|
-|❔|InstantResearch|
-|❔|ItalianTranslation - New text needs to be added|
+|❔|InstantResearch - enable|
+|❔|ItalianTranslation - verify localization changes. Two new keys:  story.hiv_2_telegraph.dlg.stage3_hive_ellie_fail_resurrect story.hiv_2_telegraph.dlg.stage3_jane_ellie_death|
 |❔|LockItemTransfer|
 |❔|MapMarkers|
 |❔|MapMoveSpeed|
 |❔|MiniMapMoveCamera|
-|❔|MissionExpirationHighlight|
 |❔|MoreCombatInfo|
-|❔|MoreProjects|
-|❔|PauseOnProduction|
-|❔|PityUnlock|
-|❔|ProduceAsReady|
-|❔|RaidShowAlly|
 |❔|RecycleHotKey|
 |❔|RedsOptionalTweaks see [subsection](#reds-optional-tweaks-sub-items) below|
 |❔|ShowHunger|
-|❔|ShowTechLevel|
-|❔|ShowUpgradeResources|
-|❔|SilentFood|
-|❔|SimpleDataLoader|
-|❔|SkipDaysCommand|
 |❔|SortExcess|
 |❔|SpawnMonsterCommand|
 |❔|SpawnMultipleCommand|
 |❔|SpeedToggle|
 |❔|StopOnDetected|
-|❔|StorageSort|
-|❔|TabHotkeys|
+|❔|TabHotkeys - Says this was added to the game.  Verify every area that was added.|
 |❔|UnityExplorer|
 |❔|UpdateWorkshopByName|
 
