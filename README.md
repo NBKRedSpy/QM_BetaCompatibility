@@ -21,57 +21,57 @@ The name of the mods in the list below may be different than the name of the mod
 # Mods
 |Status|Mod|
 |--|--|
-|❔|CommandAlly|
-|❔|CameraToExits|
-|❔|ExtraDeployChecks|
-|❔|MapMarkers|
-|❔|PityUnlock|
-|❔|ProduceAsReady|
-|❔|RedsOptionalTweaks see [subsection](#reds-optional-tweaks-sub-items) below|
-|❔|ShowTechLevel|
-|❔|SimpleDataLoader|
-|❔|StorageSort|
 |❔|AutoLoadGame|
+|❔|CameraToExits|
+|❔|CommandAlly|
 |❔|CompareDelta|
 |❔|ContextMenuHotkeys|
+|❔|DecreaseWeaponsDegradation|
+|❔|DontShootBoxes|
 |❔|EnemyCountIndicator_Continued|
 |❔|ExitWithoutSaveCommand|
 |❔|ExternalLog|
+|❔|ExtraDeployChecks|
 |❔|GraphicsResolutionToTop|
 |❔|HighlightDamagingEffects|
+|❔|ImplantIndicator|
 |❔|ImprovedSort|
 |❔|InstantResearch|
+|❔|ItalianTranslation - New text needs to be added|
 |❔|LockItemTransfer|
+|❔|MapMarkers|
 |❔|MapMoveSpeed|
 |❔|MiniMapMoveCamera|
 |❔|MissionExpirationHighlight|
 |❔|MoreCombatInfo|
+|❔|MoreProjects|
 |❔|PauseOnProduction|
+|❔|PityUnlock|
+|❔|ProduceAsReady|
+|❔|RaidShowAlly|
 |❔|RecycleHotKey|
+|❔|RedsOptionalTweaks see [subsection](#reds-optional-tweaks-sub-items) below|
 |❔|ShowHunger|
+|❔|ShowTechLevel|
 |❔|ShowUpgradeResources|
 |❔|SilentFood|
+|❔|SimpleDataLoader|
 |❔|SkipDaysCommand|
 |❔|SortExcess|
 |❔|SpawnMonsterCommand|
 |❔|SpawnMultipleCommand|
 |❔|SpeedToggle|
 |❔|StopOnDetected|
+|❔|StorageSort|
 |❔|TabHotkeys|
 |❔|UnityExplorer|
 |❔|UpdateWorkshopByName|
-|❔|MoreProjects|
-|❔|RaidShowAlly|
-|❔|DecreaseWeaponsDegradation|
-|❔|DontShootBoxes|
-|❔|ItalianTranslation - New text needs to be added|
 
 # Red's Optional Tweaks sub items.
 
 |Status|Mod|
 |--|--|
 |❔|HoldToReload|
-|❔|ImplantIndicator|
 |❔|Mouse Quick Toss Rebind|
 |❔|QMeterVisual|
 |❔|RecycleHotkey|
