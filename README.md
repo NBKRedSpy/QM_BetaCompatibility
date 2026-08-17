@@ -22,62 +22,62 @@ The name of the mods in the list below may be different than the name of the mod
 
 |Status|Mod|
 |--|--|
+|✅ - enable|SilentFood|
+|✅ - works|StorageSort - Internal: Check if the sort code has been simplified.|
 |✅|AutoLoadGame|
+|✅|CameraToExits|
+|✅|CommandAlly|
 |✅|CompareDelta|
 |✅|ContextMenuHotkeys|
+|✅|EnemyCountIndicator_Continued|
+|✅|ExitWithoutSaveCommand|
 |✅|ExternalLog|
 |✅|ExtraDeployChecks|
 |✅|GraphicsResolutionToTop|
+|✅|ImplantIndicator|
 |✅|ImprovedSort|
+|✅|LockItemTransfer|
+|✅|MapMarkers|more projectswe
+|✅|MapMoveSpeed|
+|✅|MiniMapMoveCamera|more projects
 |✅|MissionExpirationHighlight|
+|✅|MoreCombatInfo|
 |✅|PauseOnProduction|
 |✅|PityUnlock|
 |✅|ProduceAsReady|
 |✅|RaidShowAlly|
+|✅|RecycleHotKey|
+|✅|ShowHunger|
 |✅|ShowTechLevel - in progress of upgrade.  Existing mod doesn't show info, but doesn't affect anything.|
 |✅|ShowUpgradeResources|
 |✅|SimpleDataLoader|
 |✅|SkipDaysCommand|
-|✅|ExitWithoutSaveCommand|
+|✅|SortExcess|
+|✅|SpawnMonsterCommand|
+|✅|SpawnMultipleCommand|
+|✅|SpeedToggle|
+|✅|StopOnDetected|
+|✅|UnityExplorer|
+|✅|UpdateWorkshopByName|
 |❔ - enable|MoreProjects|
-|❔ - enable|SilentFood|
-|❔ - works|StorageSort - Internal: Check if the sort code has been simplified.|
-|❔|CameraToExits|
-|❔|CommandAlly|
 |❔|DecreaseWeaponsDegradation|
 |❔|DontShootBoxes|
-|❔|EnemyCountIndicator_Continued|
 |❔|HighlightDamagingEffects|
-|❔|ImplantIndicator|
 |❔|InstantResearch - enable|
 |❔|ItalianTranslation - verify localization changes. Two new keys:  story.hiv_2_telegraph.dlg.stage3_hive_ellie_fail_resurrect story.hiv_2_telegraph.dlg.stage3_jane_ellie_death|
-|❔|LockItemTransfer|
-|❔|MapMarkers|
-|❔|MapMoveSpeed|
-|❔|MiniMapMoveCamera|
-|❔|MoreCombatInfo|
-|❔|RecycleHotKey|
 |❔|RedsOptionalTweaks see [subsection](#reds-optional-tweaks-sub-items) below|
-|❔|ShowHunger|
-|❔|SortExcess|
-|❔|SpawnMonsterCommand|
-|❔|SpawnMultipleCommand|
-|❔|SpeedToggle|
-|❔|StopOnDetected|
 |❔|TabHotkeys - Says this was added to the game.  Verify every area that was added.|
-|❔|UnityExplorer|
-|❔|UpdateWorkshopByName|
 
 # Red's Optional Tweaks sub items.
 
 |Status|Mod|
 |--|--|
-|❔|HoldToReload|
-|❔|Mouse Quick Toss Rebind|
-|❔|QMeterVisual|
+|✅|HoldToReload|
+|✅|Mouse Quick Toss Rebind|
+|✅|QMeterVisual|
 |❔|RecycleHotkey|
-|❔|ShipSpeedBoost|
-|❔|Show Station Info|
-|❔|ShowExpMaxed|
-|❔|SplitStackHotkeys|
-|❔|StackTotalInventoryCount|
+|❔ - enable|ShipSpeedBoost|
+|✅|Show Station Info|
+|✅|ShowExpMaxed|
+|✅|SplitStackHotkeys|
+|✅|StackTotalInventoryCount|
