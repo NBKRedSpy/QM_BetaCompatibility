@@ -2,8 +2,8 @@ The compatibility of my mods with the specified beta.
 
 |||
 |--|--|
-|Targeting version|1.0.2.573s.9f33900|
-|Date Started| 8/14/2026|
+|Targeting version|1.0.3.577s.887ffe7|
+|Date Started| 8/21/2026|
 
 The name of the mods in the list below may be different than the name of the mods on the Workshop page. 
 
@@ -22,44 +22,44 @@ The name of the mods in the list below may be different than the name of the mod
 
 |Status|Mod|
 |--|--|
-|✅ - enable|SilentFood|
-|✅ - works|StorageSort - Internal: Check if the sort code has been simplified.|
-|✅|AutoLoadGame|
-|✅|CameraToExits|
-|✅|CommandAlly|
-|✅|CompareDelta|
-|✅|ContextMenuHotkeys|
-|✅|EnemyCountIndicator_Continued|
-|✅|ExitWithoutSaveCommand|
-|✅|ExternalLog|
-|✅|ExtraDeployChecks|
+|❔|SilentFood|
+|❔|StorageSort|
+|❔|AutoLoadGame|
+|❔|CameraToExits|
+|❔|CommandAlly|
+|❔|CompareDelta|
+|❔|ContextMenuHotkeys|
+|❔|EnemyCountIndicator_Continued|
+|❔|ExitWithoutSaveCommand|
+|❔|ExternalLog|
+|❔|ExtraDeployChecks|
 |✅|GraphicsResolutionToTop|
-|✅|ImplantIndicator|
-|✅|ImprovedSort|
-|✅|LockItemTransfer|
-|✅|MapMarkers|more projectswe
-|✅|MapMoveSpeed|
-|✅|MiniMapMoveCamera|more projects
-|✅|MissionExpirationHighlight|
-|✅|MoreCombatInfo|
-|✅|PauseOnProduction|
-|✅|PityUnlock|
-|✅|ProduceAsReady|
-|✅|RaidShowAlly|
-|✅|RecycleHotKey|
-|✅|ShowHunger|
-|✅|ShowTechLevel - in progress of upgrade.  Existing mod doesn't show info, but doesn't affect anything.|
-|✅|ShowUpgradeResources|
-|✅|SimpleDataLoader|
-|✅|SkipDaysCommand|
-|✅|SortExcess|
-|✅|SpawnMonsterCommand|
-|✅|SpawnMultipleCommand|
-|✅|SpeedToggle|
-|✅|StopOnDetected|
-|✅|UnityExplorer|
-|✅|UpdateWorkshopByName|
-|❔ - enable|MoreProjects|
+|❔|ImplantIndicator|
+|❔|ImprovedSort|
+|❔|LockItemTransfer|
+|❔|MapMarkers|more projectswe
+|❔|MapMoveSpeed|
+|❔|MiniMapMoveCamera|more projects
+|❔|MissionExpirationHighlight|
+|❔|MoreCombatInfo|
+|❔|PauseOnProduction|
+|❔|PityUnlock|
+|❔|ProduceAsReady|
+|❔|RaidShowAlly|
+|❔|RecycleHotKey|
+|❔|ShowHunger|
+|❔|ShowTechLevel|
+|❔|ShowUpgradeResources|
+|❔|SimpleDataLoader|
+|❔|SkipDaysCommand|
+|❔|SortExcess|
+|❔|SpawnMonsterCommand|
+|❔|SpawnMultipleCommand|
+|❔|SpeedToggle|
+|❔|StopOnDetected|
+|❔|UnityExplorer|
+|❔|UpdateWorkshopByName|
+|❔|MoreProjects|
 |❔|DecreaseWeaponsDegradation|
 |❔|DontShootBoxes|
 |❔|HighlightDamagingEffects|
@@ -72,12 +72,12 @@ The name of the mods in the list below may be different than the name of the mod
 
 |Status|Mod|
 |--|--|
-|✅|HoldToReload|
-|✅|Mouse Quick Toss Rebind|
-|✅|QMeterVisual|
+|❔|HoldToReload|
+|❔|Mouse Quick Toss Rebind|
+|❔|QMeterVisual|
 |❔|RecycleHotkey|
-|❔ - enable|ShipSpeedBoost|
-|✅|Show Station Info|
-|✅|ShowExpMaxed|
-|✅|SplitStackHotkeys|
-|✅|StackTotalInventoryCount|
+|❔|ShipSpeedBoost 197|
+|❔|Show Station Info|
+|❔|ShowExpMaxed|
+|❔|SplitStackHotkeys|
+|❔|StackTotalInventoryCount|
